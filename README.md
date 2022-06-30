@@ -1,4 +1,4 @@
-<h1>GalaxyCloud®</h1>
+<h1>Dashcord®</h1>
 <h2>Herzlich Willkommen</h2>
 <h3>Hier auf Unserem Github Account Finden sie Verschiedene Codes von unseren Bots</h3>
 
@@ -12,11 +12,11 @@
 
 <h2>Supporte Uns:</h2>
 
-<a href="https://discord.com/oauth2/authorize?client_id=981594829140135968&scope=bot%20applications.commands&permissions=2146958847"><h3>Partner Bot</h3></a>
-<a href="https://discord.com/api/oauth2/authorize?client_id=991026134349152347&permissions=8&scope=applications.commands%20bot"><h3>Giveaway Bot</h3></a>
+<a href="https://discord.com/oauth2/authorize?client_id=981594829140135968&scope=bot%20applications.commands&permissions=379969"><h3>Partner Bot</h3></a>
+<a href="https://discord.com/api/oauth2/authorize?client_id=991026134349152347&scope=bot%20applications.commands&permissions=274878417985"><h3>Giveaway Bot</h3></a>
 
 
 <h2>Unsere Bots:</h2>
-<a href="https://github.com/GalaxyCloud01/AutoPublisher">AutoPublisher</a>
-<a href="https://github.com/GalaxyCloud01/">ModMail(Bald)</a>
-<a href="
+<a href="https://github.com/Dashcord01/AutoPublisher">AutoPublisher</a>,
+<a href="https://github.com/Dashcord01/">ModMail(Bald)</a>,
+<a href="https://github.com/Dashcord01/">Ticket(Bald)</a>
